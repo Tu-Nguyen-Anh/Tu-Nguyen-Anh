@@ -1,16 +1,19 @@
-### Hi there 👋
+<h1 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Nguyen+Anh+Tu;Nice+to+meet+you+%F0%9F%91%8B&center=true&size=35">
+  </a>
+</h1>
 
-<!--
-**TuNA-IT/TuNA-IT** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# 👋Welcome to My Repository!
+[![Profile Views](https://komarev.com/ghpvc/?username=TuNA-IT)](https://github.com/TuNA-IT)
+- 👋 Hi, I’m Nguyen Anh Tu
+- 👀 I’m currently learning Java Web
+- 🌱 I am currently studying at HaUI
+- 📫 My Contact: [Nguyễn Anh Tú](https://www.facebook.com/NguyenAnhTu002)
+- Happy coding! 😊
+
+<img src="./github-contribution-grid-snake.svg">
+
+![gitartwork](gitartwork.svg)
