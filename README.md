@@ -1,3 +1,7 @@
+<div style="text-align: center">
+  <h2> <img src="http://petxinh.weebly.com/uploads/1/3/1/7/131737961/09ba6dbf97bdb9c01eac30f08896b959.gif" width="50" height="50"</img> My name is <b>Nguyễn Anh Tú</b>
+  </h2>
+</div>
 <h1 align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com/?lines=Nguyen+Anh+Tu;Nice+to+meet+you+%F0%9F%91%8B&center=true&size=35">
@@ -6,10 +10,7 @@
 
 
 
-<div style="text-align: center">
-  <h2> <img src="http://petxinh.weebly.com/uploads/1/3/1/7/131737961/09ba6dbf97bdb9c01eac30f08896b959.gif" width="50" height="50"</img> My name is <b>Nguyễn Anh Tú</b>
-  </h2>
-</div>
+
 [![Profile Views](https://komarev.com/ghpvc/?username=TuNA-IT)](https://github.com/TuNA-IT)
 - 👋 Hi, I’m Nguyen Anh Tu
 - 👀 I’m currently learning Java Web
