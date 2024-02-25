@@ -27,9 +27,12 @@
     </a>
 </p>
 
-<br>
+## Thẻ GitHub
 
-[![GitHub project progress](https://img.shields.io/github/progress/TuNA-IT/github-readme-streak-stats.svg)](https://github.com/TuNA-IT/github-readme-streak-stats)
+* [Bug](https://github.com/TuNA-IT/github-readme-streak-stats/issues/new?labels=bug)
+* [Tính năng](https://github.com/TuNA-IT/github-readme-streak-stats/issues/new?labels=feature)
+* [Câu hỏi](https://github.com/TuNA-IT/github-readme-streak-stats/issues/new?labels=question)
+
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=TuNA-IT&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TuNA-IT&theme=radical)
