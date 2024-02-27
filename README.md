@@ -20,7 +20,7 @@
 <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=Tu-Nguyen-Anh&theme=highcontrast&border_radius=6&date_format=n%2Fj%5B%2FY%5D&exclude_days=Mon%2CTue%2CWed%2CThu%2CFri" alt="GitHub Streak" /></a>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Tu-Nguyen-Anh&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tu-Nguyen-Anh&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tu-Nguyen-Anh&theme=highcontrast)
 
 
 <h3 align="left">Languages and Tools:</h3>
